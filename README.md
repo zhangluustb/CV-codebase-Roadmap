@@ -15,6 +15,9 @@
 2.[slowfast](https://github.com/facebookresearch/SlowFast)
 3.[Efficient-3DCNNs](https://github.com/okankop/Efficient-3DCNNs)
 
+### video editing
+1.[mmediting](https://github.com/open-mmlab/mmediting) . 
+
 ### useful APP
 1. PLOTAGRAPH -- using opengl to let clouds move
 
